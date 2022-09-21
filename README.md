@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IkechukwuAbuah
-- 👀 I’m interested in Ai/ML and Blockchain
-- 🌱 I’m currently learning Ai/ML and Blockchain
-- 💞️ I’m looking to collaborate on Ai/ML and Blockchain
+- 👀 I’m interested in art, design and world building 
+- 🌱 I’m currently learning Blockchain
+- 💞️ I’m looking to collaborate on games, art, design 
 - 📫 How to reach me kelvin.abuah@gmail.com
 
 <!---
